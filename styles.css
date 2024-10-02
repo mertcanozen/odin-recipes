@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+}
+
+a {
+    color:black
+}
+
+p,ul {
+    text-align: left;
+}
+
+
+img {
+    border-radius: 5%;
+    
+}
